@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kalyan Kumar
 
-<!--
-**PITTU-KALYAN-KUMAR/PITTU-KALYAN-KUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PITTU-KALYAN-KUMAR&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PITTU-KALYAN-KUMAR&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 🔥 GitHub Streak Stats
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PITTU-KALYAN-KUMAR&theme=radical&hide_border=true)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PITTU-KALYAN-KUMAR&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PITTU-KALYAN-KUMAR&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=PITTU-KALYAN-KUMAR&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
