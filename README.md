@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PITTU-KALYAN-KUMAR&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=PITTU-KALYAN-KUMAR&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph
