@@ -4,14 +4,9 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PITTU-KALYAN-KUMAR&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PITTU-KALYAN-KUMAR&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PITTU-KALYAN-KUMAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PITTU-KALYAN-KUMAR&layout=compact&theme=radical)
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
